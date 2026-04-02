@@ -157,4 +157,4 @@ Then open `localhost:8080` and trigger the `people_analytics_pipeline` DAG.
 ## Author
 
 Ashley Vanessa
-Built as a practice project to learn data engineering and people analytics.
+
