@@ -1,5 +1,5 @@
 # Employee Retention Insights
-
+looker : https://lookerstudio.google.com/s/hKu1pm1-B9c
 This report gives insight in the the employee churn data. The model predicts employee attrition risk using machine learning, orchestrated with Apache Airflow, stored in BigQuery, and visualised in Looker Studio.
 
 ---
